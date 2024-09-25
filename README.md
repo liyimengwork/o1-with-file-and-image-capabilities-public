@@ -3,7 +3,7 @@
 We developed this exciting free app to enhance OpenAI o1 with file and image capabilities, which is not natively supported yet. Try with your short PDFs, documents, or images.
 
 ## Link to the app
-[OpenAI o1-mini Augmented with File & Image Handling Capabilities](http://34.172.215.155:8504/)
+[OpenAI o1-mini Augmented with File & Image Handling Capabilities](http://34.172.215.155:8503/)
 
 ## Upcoming Features
 - Have the parsing function pay more attention to user's question and include supplementary information in the intermediate parsed output.
@@ -16,3 +16,9 @@ We developed this exciting free app to enhance OpenAI o1 with file and image cap
 
 ### Sep 23, 2024: v0.1
 - Initial version.
+
+## Interesting Use Cases
+
+TBU
+
+
