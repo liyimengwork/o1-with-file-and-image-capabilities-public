@@ -5,10 +5,10 @@ We developed this exciting free app to enhance OpenAI o1 with file and image cap
 ## Link to the app
 [OpenAI o1-mini Augmented with File & Image Handling Capabilities](http://34.172.215.155:8504/)
 
-## Changelog
+## Upcoming Features
+- Have the parsing function pay more attention to user's question and include supplementary information in the intermediate parsed output.
 
-### Sep 25, 2024: v0.3
-- The parsing function now pays more attention to user's question and includes it in the intermediate parsed output.
+## Changelog
 
 ### Sep 25, 2024: v0.2
 - Support for multiple file uploads (up to 2).
