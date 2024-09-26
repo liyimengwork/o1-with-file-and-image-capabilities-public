@@ -1,0 +1,4 @@
+streamlit
+openai
+nest_asyncio
+llama_parse
