@@ -82,7 +82,7 @@ def save_markdown(prompt, response):
     now = datetime.now()
     date_time = now.strftime("%Y-%m-%d-%H%M%S")
     summary_filename = summarize_inquiry(prompt)
-    filename = f"Response/{date_time}-{summary_filename}.md"
+    filename = f"{date_time}-{summary_filename}.md"
     
     # **Store the timestamp in session state**
     st.session_state.date_time = date_time
