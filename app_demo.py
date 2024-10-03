@@ -230,15 +230,6 @@ if submit_button:
 
 st.markdown("---")
 
-# Move feedback inputs back to the sidebar
-st.sidebar.header("Feedback")
-st.sidebar.markdown("**Note**: Please submit your feedback after trying the app, as it will clear the right-hand-side content.")
-with st.sidebar.form(key='feedback_form'):
-    feedback = st.text_area("Any Feedback:", height=100, key='feedback')
-    contact_email = st.text_input("Contact Email (optional):", key='contact_email')
-    feedback_submit = st.form_submit_button(label='Submit Feedback')  # {{ Added label to the submit button }}
-
-
 st.sidebar.header("Github Link")
 st.sidebar.markdown("**[Github Link](https://github.com/liyimengwork/o1-with-file-and-image-capabilities-public)**")
 
